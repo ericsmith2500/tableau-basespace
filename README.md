@@ -1,6 +1,6 @@
 # tableau-basespace
 
-## Tableau Dashboards for BaseSpace Sequence Hub
+## Tableau Dashboards for [BaseSpace Sequence Hub](https://basespace.illumina.com)
 
 This repository contains examples of Tableau dashboards for sequencing instrument, run, and lanes metrics for Illumina NGS data. You can view the dashboards by downloading the [Tableau Workbook Extract (TWBX) file](Sequncing%20Run%20Metrics%20Dashboards.twbx) and viewing it with the free [Tableau Reader](https://www.tableau.com/products/reader).
 
