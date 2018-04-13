@@ -6,4 +6,4 @@ This repository contains examples of Tableau dashboards for sequencing instrumen
 
 Here is a screenshot of a run quality dashboard:
 
-![Tableau Run Quality Dashboard](tableau-basespace/Run Quality Dashboard.png?raw-true)
+![Tableau Run Quality Dashboard](https://github.com/ericsmith2500/tableau-basespace/Run Quality Dashboard.png)
